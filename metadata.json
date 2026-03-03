@@ -1,0 +1,5 @@
+{
+  "name": "Remix: MiniCraft 1",
+  "description": "A simple Minecraft clone with a custom character, textures, sounds, and mobile support.",
+  "requestFramePermissions": []
+}
